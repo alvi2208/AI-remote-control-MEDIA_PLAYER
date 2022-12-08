@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="time.strftime.after" />
+          <option value="time.strftime.label" />
+          <option value="time.time.strftime" />
+          <option value="PyQt5.QtMultimedia.positionChanged.connect" />
+          <option value="PyQt5.QtMultimedia.durationChanged.connect" />
+          <option value="PyQt5.QtMultimedia.stateChanged.connect" />
+          <option value="PyQt5.QtWidgets.sliderMoved.connect" />
+          <option value="PyQt5.QtWidgets.clicked.connect" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
